@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="vagrant://C:\Users\Speker\PhpstormProjects\test01.profi-credit.ru/usr/bin/php7.0" id="55229316-b23d-4eda-9390-db01f7314fbf" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="C:\Users\Speker\PhpstormProjects\test01.profi-credit.ru" INTERPRETER_PATH="/usr/bin/php7.0" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="Remote PHP 5.6">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.0" path_separator=":" remote_host="10.0.2.2" version="7.0.30-0ubuntu0.16.04.1" warning="MIB search path: /home/vagrant/.snmp/mibs:/usr/share/snmp/mibs:/usr/share/snmp/mibs/iana:/usr/share/snmp/mibs/ietf:/usr/share/mibs/site:/usr/share/snmp/mibs:/usr/share/mibs/iana:/usr/share/mibs/ietf:/usr/share/mibs/netsnmp&#10;Cannot find module (SNMPv2-MIB): At line 2 in (none)&#10;Cannot find module (IF-MIB): At line 2 in (none)&#10;Cannot find module (IP-MIB): At line 2 in (none)&#10;Cannot find module (TCP-MIB): At line 2 in (none)&#10;Cannot find module (UDP-MIB): At line 2 in (none)&#10;Cannot find module (HOST-RESOURCES-MIB): At line 2 in (none)&#10;Cannot find module (NOTIFICATION-LOG-MIB): At line 2 in (none)&#10;Cannot find module (DISMAN-EVENT-MIB): At line 2 in (none)&#10;Cannot find module (DISMAN-SCHEDULE-MIB): At line 2 in (none)&#10;Cannot find module (HOST-RESOURCES-TYPES): At line 2 in (none)&#10;Cannot find module (MTA-MIB): At line 2 in (none)&#10;Cannot find module (NETWORK-SERVICES-MIB): At line 2 in (none)&#10;Cannot find module (SNMPv2-TC): At line 15 in /usr/share/snmp/mibs/UCD-DISKIO-MIB.txt&#10;Cannot find module (SNMPv2-SMI): At line 34 in /usr/share/snmp/mibs/UCD-SNMP-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 37 in /usr/share/snmp/mibs/UCD-SNMP-MIB.txt&#10;Did not find 'enterprises' in module #-1 (/usr/share/snmp/mibs/UCD-SNMP-MIB.txt)&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/UCD-SNMP-MIB.txt)&#10;Did not find 'TruthValue' in module #-1 (/usr/share/snmp/mibs/UCD-SNMP-MIB.txt)&#10;Unlinked OID in UCD-SNMP-MIB: ucdavis ::= { enterprises 2021 }&#10;Undefined identifier: enterprises near line 39 of /usr/share/snmp/mibs/UCD-SNMP-MIB.txt&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/UCD-DISKIO-MIB.txt)&#10;Did not find 'ucdExperimental' in module UCD-SNMP-MIB (/usr/share/snmp/mibs/UCD-DISKIO-MIB.txt)&#10;Unlinked OID in UCD-DISKIO-MIB: ucdDiskIOMIB ::= { ucdExperimental 15 }&#10;Undefined identifier: ucdExperimental near line 19 of /usr/share/snmp/mibs/UCD-DISKIO-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 10 in /usr/share/snmp/mibs/UCD-DLMOD-MIB.txt&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/UCD-DLMOD-MIB.txt)&#10;Did not find 'ucdExperimental' in module UCD-SNMP-MIB (/usr/share/snmp/mibs/UCD-DLMOD-MIB.txt)&#10;Unlinked OID in UCD-DLMOD-MIB: ucdDlmodMIB ::= { ucdExperimental 14 }&#10;Undefined identifier: ucdExperimental near line 13 of /usr/share/snmp/mibs/UCD-DLMOD-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 15 in /usr/share/snmp/mibs/LM-SENSORS-MIB.txt&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/LM-SENSORS-MIB.txt)&#10;Did not find 'ucdExperimental' in module UCD-SNMP-MIB (/usr/share/snmp/mibs/LM-SENSORS-MIB.txt)&#10;Unlinked OID in LM-SENSORS-MIB: lmSensors ::= { ucdExperimental 16 }&#10;Undefined identifier: ucdExperimental near line 32 of /usr/share/snmp/mibs/LM-SENSORS-MIB.txt&#10;Did not find 'ucdavis' in module UCD-SNMP-MIB (/usr/share/snmp/mibs/UCD-DEMO-MIB.txt)&#10;Unlinked OID in UCD-DEMO-MIB: ucdDemoMIB ::= { ucdavis 14 }&#10;Undefined identifier: ucdavis near line 7 of /usr/share/snmp/mibs/UCD-DEMO-MIB.txt&#10;Cannot find module (SNMP-TARGET-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-FRAMEWORK-MIB): At line 9 in /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Cannot find module (SNMPv2-SMI): At line 8 in /usr/share/snmp/mibs/NET-SNMP-MIB.txt&#10;Did not find 'enterprises' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-MIB.txt)&#10;Unlinked OID in NET-SNMP-MIB: netSnmp ::= { enterprises 8072 }&#10;Undefined identifier: enterprises near line 10 of /usr/share/snmp/mibs/NET-SNMP-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 21 in /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Did not find 'SnmpAdminString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'netSnmpObjects' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'netSnmpModuleIDs' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'netSnmpNotifications' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'netSnmpGroups' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'RowStatus' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Did not find 'TruthValue' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt)&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsAgentNotifyGroup ::= { netSnmpGroups 9 }&#10;Undefined identifier: netSnmpGroups near line 545 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsTransactionGroup ::= { netSnmpGroups 8 }&#10;Undefined identifier: netSnmpGroups near line 536 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsConfigGroups ::= { netSnmpGroups 7 }&#10;Undefined identifier: netSnmpGroups near line 515 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsCacheGroup ::= { netSnmpGroups 4 }&#10;Undefined identifier: netSnmpGroups near line 505 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsModuleGroup ::= { netSnmpGroups 2 }&#10;Undefined identifier: netSnmpGroups near line 495 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: netSnmpAgentMIB ::= { netSnmpModuleIDs 2 }&#10;Undefined identifier: netSnmpModuleIDs near line 24 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsTransactions ::= { netSnmpObjects 8 }&#10;Undefined identifier: netSnmpObjects near line 55 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsConfiguration ::= { netSnmpObjects 7 }&#10;Undefined identifier: netSnmpObjects near line 54 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsErrorHistory ::= { netSnmpObjects 6 }&#10;Undefined identifier: netSnmpObjects near line 53 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsCache ::= { netSnmpObjects 5 }&#10;Undefined identifier: netSnmpObjects near line 52 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsDLMod ::= { netSnmpObjects 4 }&#10;Undefined identifier: netSnmpObjects near line 51 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsExtensions ::= { netSnmpObjects 3 }&#10;Undefined identifier: netSnmpObjects near line 50 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsMibRegistry ::= { netSnmpObjects 2 }&#10;Undefined identifier: netSnmpObjects near line 49 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsVersion ::= { netSnmpObjects 1 }&#10;Undefined identifier: netSnmpObjects near line 48 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsNotifyRestart ::= { netSnmpNotifications 3 }&#10;Undefined identifier: netSnmpNotifications near line 482 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsNotifyShutdown ::= { netSnmpNotifications 2 }&#10;Undefined identifier: netSnmpNotifications near line 476 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Unlinked OID in NET-SNMP-AGENT-MIB: nsNotifyStart ::= { netSnmpNotifications 1 }&#10;Undefined identifier: netSnmpNotifications near line 470 of /usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt&#10;Cannot find module (SNMP-MPD-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-USER-BASED-SM-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-FRAMEWORK-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-COMMUNITY-MIB): At line 2 in (none)&#10;Cannot find module (IPV6-ICMP-MIB): At line 2 in (none)&#10;Cannot find module (IPV6-MIB): At line 2 in (none)&#10;Cannot find module (IPV6-TCP-MIB): At line 2 in (none)&#10;Cannot find module (IPV6-UDP-MIB): At line 2 in (none)&#10;Cannot find module (IP-FORWARD-MIB): At line 2 in (none)&#10;Cannot find module (SNMP-FRAMEWORK-MIB): At line 10 in /usr/share/snmp/mibs/NET-SNMP-PASS-MIB.txt&#10;Cannot find module (SNMP-FRAMEWORK-MIB): At line 10 in /usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 12 in /usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt&#10;Cannot find module (INET-ADDRESS-MIB): At line 13 in /usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt&#10;Did not find 'SnmpAdminString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Did not find 'netSnmp' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Did not find 'RowStatus' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Did not find 'StorageType' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Did not find 'InetAddressType' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Did not find 'InetAddress' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt)&#10;Unlinked OID in NET-SNMP-EXAMPLES-MIB: netSnmpExamples ::= { netSnmp 2 }&#10;Undefined identifier: netSnmp near line 16 of /usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt&#10;Did not find 'SnmpAdminString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-PASS-MIB.txt)&#10;Did not find 'netSnmpExamples' in module NET-SNMP-EXAMPLES-MIB (/usr/share/snmp/mibs/NET-SNMP-PASS-MIB.txt)&#10;Unlinked OID in NET-SNMP-PASS-MIB: netSnmpPassExamples ::= { netSnmpExamples 255 }&#10;Undefined identifier: netSnmpExamples near line 14 of /usr/share/snmp/mibs/NET-SNMP-PASS-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 16 in /usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt&#10;Did not find 'nsExtensions' in module NET-SNMP-AGENT-MIB (/usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt)&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt)&#10;Did not find 'RowStatus' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt)&#10;Did not find 'StorageType' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt)&#10;Unlinked OID in NET-SNMP-EXTEND-MIB: nsExtendGroups ::= { nsExtensions 3 }&#10;Undefined identifier: nsExtensions near line 39 of /usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt&#10;Unlinked OID in NET-SNMP-EXTEND-MIB: nsExtendObjects ::= { nsExtensions 2 }&#10;Undefined identifier: nsExtensions near line 38 of /usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt&#10;Unlinked OID in NET-SNMP-EXTEND-MIB: netSnmpExtendMIB ::= { nsExtensions 1 }&#10;Undefined identifier: nsExtensions near line 19 of /usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt&#10;Cannot find module (SNMP-NOTIFICATION-MIB): At line 2 in (none)&#10;Cannot find module (SNMPv2-TM): At line 2 in (none)&#10;Cannot find module (SNMP-FRAMEWORK-MIB): At line 9 in /usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt&#10;Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 16 in /usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt&#10;Cannot find module (SNMPv2-TC): At line 25 in /usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt&#10;Did not find 'SnmpAdminString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'netSnmpObjects' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'netSnmpGroups' in module NET-SNMP-MIB (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'vacmGroupName' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'vacmAccessContextPrefix' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'vacmAccessSecurityModel' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'vacmAccessSecurityLevel' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'DisplayString' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'RowStatus' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Did not find 'StorageType' in module #-1 (/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt)&#10;Unlinked OID in NET-SNMP-VACM-MIB: netSnmpVacmMIB ::= { netSnmpObjects 9 }&#10;Undefined identifier: netSnmpObjects near line 28 of /usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchRegExCompilation ::= { logMatchEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchErrorFlag ::= { logMatchEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchCycle ::= { logMatchEntry 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchCount ::= { logMatchEntry 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchCounter ::= { logMatchEntry 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchCurrentCount ::= { logMatchEntry 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchCurrentCounter ::= { logMatchEntry 7 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchGlobalCount ::= { logMatchEntry 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchGlobalCounter ::= { logMatchEntry 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchRegEx ::= { logMatchEntry 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchFilename ::= { logMatchEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchName ::= { logMatchEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchIndex ::= { logMatchEntry 1 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmAccessEntry ::= { nsVacmAccessTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extErrFixCmd ::= { extEntry 103 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extErrFix ::= { extEntry 102 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extOutput ::= { extEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extResult ::= { extEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extCommand ::= { extEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extNames ::= { extEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extIndex ::= { extEntry 1 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoPublic ::= { ucdDemoMIBObjects 1 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodTable ::= { ucdDlmodMIB 2 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodNextIndex ::= { ucdDlmodMIB 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExamples ::= { netSnmp 2 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpConformance ::= { netSnmp 5 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpNotificationPrefix ::= { netSnmp 4 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpExperimental ::= { netSnmp 9999 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpEnumerations ::= { netSnmp 3 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpObjects ::= { netSnmp 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionDoDebugging ::= { version 20 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionSavePersistentData ::= { version 13 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionRestartAgent ::= { version 12 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionUpdateConfig ::= { version 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionClearCache ::= { version 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionConfigureOptions ::= { version 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionIdent ::= { version 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionCDate ::= { version 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionDate ::= { version 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionTag ::= { version 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: versionIndex ::= { version 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleHeartbeatNotification ::= { netSnmpExampleNotificationPrefix 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheStatus ::= { nsCacheEntry 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheTimeout ::= { nsCacheEntry 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCachedOID ::= { nsCacheEntry 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: unknown ::= { ucdSnmpAgent 255 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dragonfly ::= { ucdSnmpAgent 17 }&#10;Cannot adopt OID in UCD-SNMP-MIB: macosx ::= { ucdSnmpAgent 16 }&#10;Cannot adopt OID in UCD-SNMP-MIB: aix ::= { ucdSnmpAgent 15 }&#10;Cannot adopt OID in UCD-SNMP-MIB: hpux11 ::= { ucdSnmpAgent 14 }&#10;Cannot adopt OID in UCD-SNMP-MIB: win32 ::= { ucdSnmpAgent 13 }&#10;Cannot adopt OID in UCD-SNMP-MIB: openbsd ::= { ucdSnmpAgent 12 }&#10;Cannot adopt OID in UCD-SNMP-MIB: bsdi ::= { ucdSnmpAgent 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: linux ::= { ucdSnmpAgent 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: irix ::= { ucdSnmpAgent 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: freebsd ::= { ucdSnmpAgent 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: netbsd1 ::= { ucdSnmpAgent 7 }&#10;Cannot adopt OID in UCD-SNMP-MIB: hpux10 ::= { ucdSnmpAgent 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ultrix ::= { ucdSnmpAgent 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: osf ::= { ucdSnmpAgent 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: solaris ::= { ucdSnmpAgent 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: sunos4 ::= { ucdSnmpAgent 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: hpux9 ::= { ucdSnmpAgent 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutputGroup ::= { nsExtendGroups 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendConfigGroup ::= { nsExtendGroups 1 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOEntry ::= { diskIOTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactionEntry ::= { nsTransactionTable 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpGroups ::= { netSnmpConformance 2 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpCompliances ::= { netSnmpConformance 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: mrModuleName ::= { mrEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: mrIndex ::= { mrEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugTokenEntry ::= { nsDebugTokenTable 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendStatus ::= { nsExtendConfigEntry 21 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendStorage ::= { nsExtendConfigEntry 20 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendRunType ::= { nsExtendConfigEntry 7 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendExecType ::= { nsExtendConfigEntry 6 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendCacheTime ::= { nsExtendConfigEntry 5 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendInput ::= { nsExtendConfigEntry 4 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendArgs ::= { nsExtendConfigEntry 3 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendCommand ::= { nsExtendConfigEntry 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendToken ::= { nsExtendConfigEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleTable ::= { nsMibRegistry 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpPlaypen ::= { netSnmpExperimental 9999 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpIETFWGEntry ::= { netSnmpIETFWGTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prErrFixCmd ::= { prEntry 103 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prErrFix ::= { prEntry 102 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prErrMessage ::= { prEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prErrorFlag ::= { prEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prCount ::= { prEntry 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prMax ::= { prEntry 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prMin ::= { prEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prNames ::= { prEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prIndex ::= { prEntry 1 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodEntry ::= { dlmodTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memSwapErrorMsg ::= { memory 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memSwapError ::= { memory 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memUsedRealTXT ::= { memory 17 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memUsedSwapTXT ::= { memory 16 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memCached ::= { memory 15 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memBuffer ::= { memory 14 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memShared ::= { memory 13 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memMinimumSwap ::= { memory 12 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memTotalFree ::= { memory 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memAvailRealTXT ::= { memory 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memTotalRealTXT ::= { memory 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memAvailSwapTXT ::= { memory 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memTotalSwapTXT ::= { memory 7 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memAvailReal ::= { memory 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memTotalReal ::= { memory 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memAvailSwap ::= { memory 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memTotalSwap ::= { memory 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memErrorName ::= { memory 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memIndex ::= { memory 1 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoMIBObjects ::= { ucdDemoMIB 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleTimeout ::= { nsModuleEntry 6 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleModes ::= { nsModuleEntry 5 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleName ::= { nsModuleEntry 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsmRegistrationPriority ::= { nsModuleEntry 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsmRegistrationPoint ::= { nsModuleEntry 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsmContextName ::= { nsModuleEntry 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmMiscSensorsEntry ::= { lmMiscSensorsTable 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpNotificationObjects ::= { netSnmpNotificationPrefix 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpNotifications ::= { netSnmpNotificationPrefix 0 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassTable ::= { netSnmpPassExamples 2 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassOIDValue ::= { netSnmpPassExamples 99 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassGauge ::= { netSnmpPassExamples 6 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassCounter ::= { netSnmpPassExamples 5 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassIpAddress ::= { netSnmpPassExamples 4 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassTimeTicks ::= { netSnmpPassExamples 3 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassString ::= { netSnmpPassExamples 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpDomains ::= { netSnmpEnumerations 3 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpAgentOIDs ::= { netSnmpEnumerations 2 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmpModuleIDs ::= { netSnmpEnumerations 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmFanSensorsEntry ::= { lmFanSensorsTable 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmTempSensorsEntry ::= { lmTempSensorsTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleGroup ::= { netSnmpGroups 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheGroup ::= { netSnmpGroups 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsConfigGroups ::= { netSnmpGroups 7 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactionGroup ::= { netSnmpGroups 8 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsAgentNotifyGroup ::= { netSnmpGroups 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileEntry ::= { fileTable 1 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmStatus ::= { nsVacmAccessEntry 5 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmStorageType ::= { nsVacmAccessEntry 4 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmViewName ::= { nsVacmAccessEntry 3 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmContextMatch ::= { nsVacmAccessEntry 2 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmAuthType ::= { nsVacmAccessEntry 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: netSnmpExtendMIB ::= { nsExtensions 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendObjects ::= { nsExtensions 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendGroups ::= { nsExtensions 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmVoltSensorsEntry ::= { lmVoltSensorsTable 1 }&#10;Cannot adopt OID in NET-SNMP-MIB: netSnmp ::= { enterprises 8072 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdavis ::= { enterprises 2021 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIONWrittenX ::= { diskIOEntry 13 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIONReadX ::= { diskIOEntry 12 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOLA15 ::= { diskIOEntry 11 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOLA5 ::= { diskIOEntry 10 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOLA1 ::= { diskIOEntry 9 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOWrites ::= { diskIOEntry 6 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOReads ::= { diskIOEntry 5 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIONWritten ::= { diskIOEntry 4 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIONRead ::= { diskIOEntry 3 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIODevice ::= { diskIOEntry 2 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOIndex ::= { diskIOEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactionMode ::= { nsTransactionEntry 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactionID ::= { nsTransactionEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugTokenStatus ::= { nsDebugTokenEntry 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugTokenPrefix ::= { nsDebugTokenEntry 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: nsIETFWGChair2 ::= { netSnmpIETFWGEntry 3 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: nsIETFWGChair1 ::= { netSnmpIETFWGEntry 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: nsIETFWGName ::= { netSnmpIETFWGEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLoggingTable ::= { nsConfigLogging 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostsEntry ::= { netSnmpHostsTable 1 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodStatus ::= { dlmodEntry 5 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodError ::= { dlmodEntry 4 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodPath ::= { dlmodEntry 3 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodName ::= { dlmodEntry 2 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: dlmodIndex ::= { dlmodEntry 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmMiscSensorsValue ::= { lmMiscSensorsEntry 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmMiscSensorsDevice ::= { lmMiscSensorsEntry 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmMiscSensorsIndex ::= { lmMiscSensorsEntry 1 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassEntry ::= { netSnmpPassTable 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmSensors ::= { ucdExperimental 16 }&#10;Cannot adopt OID in UCD-DLMOD-MIB: ucdDlmodMIB ::= { ucdExperimental 14 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: ucdDiskIOMIB ::= { ucdExperimental 15 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskEntry ::= { dskTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: netSnmpAgentMIB ::= { netSnmpModuleIDs 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmFanSensorsValue ::= { lmFanSensorsEntry 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmFanSensorsDevice ::= { lmFanSensorsEntry 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmFanSensorsIndex ::= { lmFanSensorsEntry 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmTempSensorsValue ::= { lmTempSensorsEntry 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmTempSensorsDevice ::= { lmTempSensorsEntry 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmTempSensorsIndex ::= { lmTempSensorsEntry 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchTable ::= { logMatch 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchMaxEntries ::= { logMatch 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLoggingEntry ::= { nsLoggingTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileErrorMsg ::= { fileEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileErrorFlag ::= { fileEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileMax ::= { fileEntry 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileSize ::= { fileEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileName ::= { fileEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileIndex ::= { fileEntry 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutput2Table ::= { nsExtendObjects 4 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutput1Table ::= { nsExtendObjects 3 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendConfigTable ::= { nsExtendObjects 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendNumEntries ::= { nsExtendObjects 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutput1Entry ::= { nsExtendOutput1Table 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuNumCpus ::= { systemStats 67 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawGuestNice ::= { systemStats 66 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawGuest ::= { systemStats 65 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawSteal ::= { systemStats 64 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssRawSwapOut ::= { systemStats 63 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssRawSwapIn ::= { systemStats 62 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawSoftIRQ ::= { systemStats 61 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssRawContexts ::= { systemStats 60 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssRawInterrupts ::= { systemStats 59 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssIORawReceived ::= { systemStats 58 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssIORawSent ::= { systemStats 57 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawInterrupt ::= { systemStats 56 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawKernel ::= { systemStats 55 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawWait ::= { systemStats 54 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawIdle ::= { systemStats 53 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawSystem ::= { systemStats 52 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawNice ::= { systemStats 51 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuRawUser ::= { systemStats 50 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuIdle ::= { systemStats 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuSystem ::= { systemStats 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssCpuUser ::= { systemStats 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssSysContext ::= { systemStats 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssSysInterrupts ::= { systemStats 7 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssIOReceive ::= { systemStats 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssIOSent ::= { systemStats 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssSwapOut ::= { systemStats 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssSwapIn ::= { systemStats 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssErrorName ::= { systemStats 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ssIndex ::= { systemStats 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutput2Entry ::= { nsExtendOutput2Table 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laEntry ::= { laTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheTable ::= { nsCache 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheEnabled ::= { nsCache 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheDefaultTimeout ::= { nsCache 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatchEntry ::= { logMatchTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extEntry ::= { extTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsConfigLogging ::= { nsConfiguration 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsConfigDebug ::= { nsConfiguration 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleString ::= { netSnmpExampleScalars 3 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleSleeper ::= { netSnmpExampleScalars 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleInteger ::= { netSnmpExampleScalars 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmVoltSensorsValue ::= { lmVoltSensorsEntry 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmVoltSensorsDevice ::= { lmVoltSensorsEntry 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmVoltSensorsIndex ::= { lmVoltSensorsEntry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCacheEntry ::= { nsCacheTable 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugTokenTable ::= { nsConfigDebug 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugDumpPdu ::= { nsConfigDebug 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugOutputAll ::= { nsConfigDebug 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugEnabled ::= { nsConfigDebug 1 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoPassphrase ::= { ucdDemoPublic 4 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoUserList ::= { ucdDemoPublic 3 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoPublicString ::= { ucdDemoPublic 2 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoResetKeys ::= { ucdDemoPublic 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleHeartbeatName ::= { netSnmpExampleNotificationObjects 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleHeartbeatRate ::= { netSnmpExampleNotificationObjects 1 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassExamples ::= { netSnmpExamples 255 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleNotifications ::= { netSnmpExamples 3 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleTables ::= { netSnmpExamples 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleScalars ::= { netSnmpExamples 1 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: nsVacmAccessTable ::= { netSnmpVacmMIB 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdShutdown ::= { ucdTraps 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdStart ::= { ucdTraps 1 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmMiscSensorsTable ::= { lmSensors 5 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmVoltSensorsTable ::= { lmSensors 4 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmFanSensorsTable ::= { lmSensors 3 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmTempSensorsTable ::= { lmSensors 2 }&#10;Cannot adopt OID in LM-SENSORS-MIB: lmSensorsMIB ::= { lmSensors 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: mrEntry ::= { mrTable 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendConfigEntry ::= { nsExtendConfigTable 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostRowStatus ::= { netSnmpHostsEntry 5 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostStorage ::= { netSnmpHostsEntry 4 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostAddress ::= { netSnmpHostsEntry 3 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostAddressType ::= { netSnmpHostsEntry 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostName ::= { netSnmpHostsEntry 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prEntry ::= { prTable 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleNotification ::= { netSnmpExampleNotifications 1 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleNotificationObjects ::= { netSnmpExampleNotifications 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpExampleNotificationPrefix ::= { netSnmpExampleNotifications 0 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpHostsTable ::= { netSnmpExampleTables 2 }&#10;Cannot adopt OID in NET-SNMP-EXAMPLES-MIB: netSnmpIETFWGTable ::= { netSnmpExampleTables 1 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassOID ::= { netSnmpPassEntry 3 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassInteger ::= { netSnmpPassEntry 2 }&#10;Cannot adopt OID in NET-SNMP-PASS-MIB: netSnmpPassIndex ::= { netSnmpPassEntry 1 }&#10;Cannot adopt OID in NET-SNMP-VACM-MIB: netSnmpVacmMIB ::= { netSnmpObjects 9 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsVersion ::= { netSnmpObjects 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsMibRegistry ::= { netSnmpObjects 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsExtensions ::= { netSnmpObjects 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDLMod ::= { netSnmpObjects 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsCache ::= { netSnmpObjects 5 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsErrorHistory ::= { netSnmpObjects 6 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsConfiguration ::= { netSnmpObjects 7 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactions ::= { netSnmpObjects 8 }&#10;Cannot adopt OID in UCD-DEMO-MIB: ucdDemoMIB ::= { ucdavis 14 }&#10;Cannot adopt OID in UCD-SNMP-MIB: logMatch ::= { ucdavis 16 }&#10;Cannot adopt OID in UCD-SNMP-MIB: fileTable ::= { ucdavis 15 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdTraps ::= { ucdavis 251 }&#10;Cannot adopt OID in UCD-SNMP-MIB: systemStats ::= { ucdavis 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: mrTable ::= { ucdavis 102 }&#10;Cannot adopt OID in UCD-SNMP-MIB: snmperrs ::= { ucdavis 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: version ::= { ucdavis 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laTable ::= { ucdavis 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskTable ::= { ucdavis 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: memory ::= { ucdavis 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: extTable ::= { ucdavis 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: prTable ::= { ucdavis 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdSnmpAgent ::= { ucdavis 250 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdExperimental ::= { ucdavis 13 }&#10;Cannot adopt OID in UCD-SNMP-MIB: ucdInternal ::= { ucdavis 12 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsModuleEntry ::= { nsModuleTable 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskErrorMsg ::= { dskEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskErrorFlag ::= { dskEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskUsedHigh ::= { dskEntry 16 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskUsedLow ::= { dskEntry 15 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskAvailHigh ::= { dskEntry 14 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskAvailLow ::= { dskEntry 13 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskTotalHigh ::= { dskEntry 12 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskTotalLow ::= { dskEntry 11 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskPercentNode ::= { dskEntry 10 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskPercent ::= { dskEntry 9 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskUsed ::= { dskEntry 8 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskAvail ::= { dskEntry 7 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskTotal ::= { dskEntry 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskMinPercent ::= { dskEntry 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskMinimum ::= { dskEntry 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskDevice ::= { dskEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskPath ::= { dskEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: dskIndex ::= { dskEntry 1 }&#10;Cannot adopt OID in UCD-DISKIO-MIB: diskIOTable ::= { ucdDiskIOMIB 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLoggingGroup ::= { nsConfigGroups 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsDebugGroup ::= { nsConfigGroups 1 }&#10;Cannot adopt OID in UCD-SNMP-MIB: snmperrErrMessage ::= { snmperrs 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: snmperrErrorFlag ::= { snmperrs 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: snmperrNames ::= { snmperrs 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: snmperrIndex ::= { snmperrs 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsTransactionTable ::= { nsTransactions 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLogStatus ::= { nsLoggingEntry 5 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLogMaxLevel ::= { nsLoggingEntry 4 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLogType ::= { nsLoggingEntry 3 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLogToken ::= { nsLoggingEntry 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsLogLevel ::= { nsLoggingEntry 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendResult ::= { nsExtendOutput1Entry 4 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutNumLines ::= { nsExtendOutput1Entry 3 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutputFull ::= { nsExtendOutput1Entry 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutput1Line ::= { nsExtendOutput1Entry 1 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendOutLine ::= { nsExtendOutput2Entry 2 }&#10;Cannot adopt OID in NET-SNMP-EXTEND-MIB: nsExtendLineIndex ::= { nsExtendOutput2Entry 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsNotifyStart ::= { netSnmpNotifications 1 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsNotifyShutdown ::= { netSnmpNotifications 2 }&#10;Cannot adopt OID in NET-SNMP-AGENT-MIB: nsNotifyRestart ::= { netSnmpNotifications 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laErrMessage ::= { laEntry 101 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laErrorFlag ::= { laEntry 100 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laLoadFloat ::= { laEntry 6 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laLoadInt ::= { laEntry 5 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laConfig ::= { laEntry 4 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laLoad ::= { laEntry 3 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laNames ::= { laEntry 2 }&#10;Cannot adopt OID in UCD-SNMP-MIB: laIndex ::= { laEntry 1 }&#10;">
+          <additional_php_ini>/etc/php/7.0/cli/conf.d/10-mysqlnd.ini, /etc/php/7.0/cli/conf.d/10-opcache.ini, /etc/php/7.0/cli/conf.d/10-pdo.ini, /etc/php/7.0/cli/conf.d/15-xml.ini, /etc/php/7.0/cli/conf.d/20-calendar.ini, /etc/php/7.0/cli/conf.d/20-ctype.ini, /etc/php/7.0/cli/conf.d/20-dom.ini, /etc/php/7.0/cli/conf.d/20-exif.ini, /etc/php/7.0/cli/conf.d/20-fileinfo.ini, /etc/php/7.0/cli/conf.d/20-ftp.ini, /etc/php/7.0/cli/conf.d/20-gettext.ini, /etc/php/7.0/cli/conf.d/20-iconv.ini, /etc/php/7.0/cli/conf.d/20-json.ini, /etc/php/7.0/cli/conf.d/20-mbstring.ini, /etc/php/7.0/cli/conf.d/20-mysqli.ini, /etc/php/7.0/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.0/cli/conf.d/20-phar.ini, /etc/php/7.0/cli/conf.d/20-posix.ini, /etc/php/7.0/cli/conf.d/20-readline.ini, /etc/php/7.0/cli/conf.d/20-shmop.ini, /etc/php/7.0/cli/conf.d/20-simplexml.ini, /etc/php/7.0/cli/conf.d/20-snmp.ini, /etc/php/7.0/cli/conf.d/20-soap.ini, /etc/php/7.0/cli/conf.d/20-sockets.ini, /etc/php/7.0/cli/conf.d/20-sysvmsg.ini, /etc/php/7.0/cli/conf.d/20-sysvsem.ini, /etc/php/7.0/cli/conf.d/20-sysvshm.ini, /etc/php/7.0/cli/conf.d/20-tokenizer.ini, /etc/php/7.0/cli/conf.d/20-wddx.ini, /etc/php/7.0/cli/conf.d/20-xdebug.ini, /etc/php/7.0/cli/conf.d/20-xmlreader.ini, /etc/php/7.0/cli/conf.d/20-xmlrpc.ini, /etc/php/7.0/cli/conf.d/20-xmlwriter.ini, /etc/php/7.0/cli/conf.d/20-xsl.ini</additional_php_ini>
+          <configuration_file>/etc/php/7.0/cli/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="SMTP" value="localhost" />
+            <configuration_option name="allow_url_fopen" value="1" />
+            <configuration_option name="allow_url_include" value="" />
+            <configuration_option name="arg_separator.input" value="&amp;" />
+            <configuration_option name="arg_separator.output" value="&amp;" />
+            <configuration_option name="assert.active" value="1" />
+            <configuration_option name="assert.bail" value="0" />
+            <configuration_option name="assert.callback" value="" />
+            <configuration_option name="assert.exception" value="0" />
+            <configuration_option name="assert.quiet_eval" value="0" />
+            <configuration_option name="assert.warning" value="1" />
+            <configuration_option name="auto_append_file" value="" />
+            <configuration_option name="auto_detect_line_endings" value="0" />
+            <configuration_option name="auto_globals_jit" value="1" />
+            <configuration_option name="auto_prepend_file" value="" />
+            <configuration_option name="browscap" value="" />
+            <configuration_option name="cli.pager" value="" />
+            <configuration_option name="cli.prompt" value="\b \&gt; " />
+            <configuration_option name="date.default_latitude" value="31.7667" />
+            <configuration_option name="date.default_longitude" value="35.2333" />
+            <configuration_option name="date.sunrise_zenith" value="90.583333" />
+            <configuration_option name="date.sunset_zenith" value="90.583333" />
+            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="default_charset" value="UTF-8" />
+            <configuration_option name="default_mimetype" value="text/html" />
+            <configuration_option name="default_socket_timeout" value="60" />
+            <configuration_option name="disable_classes" value="" />
+            <configuration_option name="disable_functions" value="" />
+            <configuration_option name="display_errors" value="" />
+            <configuration_option name="display_startup_errors" value="" />
+            <configuration_option name="doc_root" value="" />
+            <configuration_option name="docref_ext" value="" />
+            <configuration_option name="docref_root" value="" />
+            <configuration_option name="enable_dl" value="" />
+            <configuration_option name="enable_post_data_reading" value="1" />
+            <configuration_option name="error_append_string" value="" />
+            <configuration_option name="error_log" value="" />
+            <configuration_option name="error_prepend_string" value="" />
+            <configuration_option name="error_reporting" value="22527" />
+            <configuration_option name="exif.decode_jis_intel" value="JIS" />
+            <configuration_option name="exif.decode_jis_motorola" value="JIS" />
+            <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
+            <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
+            <configuration_option name="exif.encode_jis" value="" />
+            <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
+            <configuration_option name="exit_on_timeout" value="0" />
+            <configuration_option name="expose_php" value="1" />
+            <configuration_option name="extension_dir" value="/usr/lib/php/20151012" />
+            <configuration_option name="file_uploads" value="1" />
+            <configuration_option name="filter.default" value="unsafe_raw" />
+            <configuration_option name="filter.default_flags" value="" />
+            <configuration_option name="from" value="" />
+            <configuration_option name="highlight.comment" value="#FF8000" />
+            <configuration_option name="highlight.default" value="#0000BB" />
+            <configuration_option name="highlight.html" value="#000000" />
+            <configuration_option name="highlight.keyword" value="#007700" />
+            <configuration_option name="highlight.string" value="#DD0000" />
+            <configuration_option name="html_errors" value="0" />
+            <configuration_option name="iconv.input_encoding" value="" />
+            <configuration_option name="iconv.internal_encoding" value="" />
+            <configuration_option name="iconv.output_encoding" value="" />
+            <configuration_option name="ignore_repeated_errors" value="" />
+            <configuration_option name="ignore_repeated_source" value="" />
+            <configuration_option name="ignore_user_abort" value="0" />
+            <configuration_option name="implicit_flush" value="1" />
+            <configuration_option name="include_path" value=".:/usr/share/php" />
+            <configuration_option name="input_encoding" value="" />
+            <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="log_errors" value="1" />
+            <configuration_option name="log_errors_max_len" value="1024" />
+            <configuration_option name="mail.add_x_header" value="1" />
+            <configuration_option name="mail.force_extra_parameters" value="" />
+            <configuration_option name="mail.log" value="" />
+            <configuration_option name="max_execution_time" value="0" />
+            <configuration_option name="max_file_uploads" value="20" />
+            <configuration_option name="max_input_nesting_level" value="64" />
+            <configuration_option name="max_input_time" value="-1" />
+            <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="mbstring.detect_order" value="" />
+            <configuration_option name="mbstring.encoding_translation" value="0" />
+            <configuration_option name="mbstring.func_overload" value="0" />
+            <configuration_option name="mbstring.http_input" value="" />
+            <configuration_option name="mbstring.http_output" value="" />
+            <configuration_option name="mbstring.http_output_conv_mimetypes" value="^(text/|application/xhtml\+xml)" />
+            <configuration_option name="mbstring.internal_encoding" value="" />
+            <configuration_option name="mbstring.language" value="neutral" />
+            <configuration_option name="mbstring.strict_detection" value="0" />
+            <configuration_option name="mbstring.substitute_character" value="" />
+            <configuration_option name="memory_limit" value="-1" />
+            <configuration_option name="mysqli.allow_local_infile" value="1" />
+            <configuration_option name="mysqli.allow_persistent" value="1" />
+            <configuration_option name="mysqli.default_host" value="" />
+            <configuration_option name="mysqli.default_port" value="3306" />
+            <configuration_option name="mysqli.default_pw" value="" />
+            <configuration_option name="mysqli.default_socket" value="" />
+            <configuration_option name="mysqli.default_user" value="" />
+            <configuration_option name="mysqli.max_links" value="-1" />
+            <configuration_option name="mysqli.max_persistent" value="-1" />
+            <configuration_option name="mysqli.reconnect" value="" />
+            <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
+            <configuration_option name="mysqlnd.collect_statistics" value="1" />
+            <configuration_option name="mysqlnd.debug" value="" />
+            <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
+            <configuration_option name="mysqlnd.log_mask" value="0" />
+            <configuration_option name="mysqlnd.mempool_default_size" value="16000" />
+            <configuration_option name="mysqlnd.net_cmd_buffer_size" value="4096" />
+            <configuration_option name="mysqlnd.net_read_buffer_size" value="32768" />
+            <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
+            <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
+            <configuration_option name="mysqlnd.trace_alloc" value="" />
+            <configuration_option name="opcache.blacklist_filename" value="" />
+            <configuration_option name="opcache.consistency_checks" value="0" />
+            <configuration_option name="opcache.dups_fix" value="0" />
+            <configuration_option name="opcache.enable" value="1" />
+            <configuration_option name="opcache.enable_cli" value="0" />
+            <configuration_option name="opcache.enable_file_override" value="0" />
+            <configuration_option name="opcache.error_log" value="" />
+            <configuration_option name="opcache.fast_shutdown" value="0" />
+            <configuration_option name="opcache.file_cache" value="" />
+            <configuration_option name="opcache.file_cache_consistency_checks" value="1" />
+            <configuration_option name="opcache.file_cache_only" value="0" />
+            <configuration_option name="opcache.file_update_protection" value="2" />
+            <configuration_option name="opcache.force_restart_timeout" value="180" />
+            <configuration_option name="opcache.huge_code_pages" value="0" />
+            <configuration_option name="opcache.inherited_hack" value="1" />
+            <configuration_option name="opcache.interned_strings_buffer" value="4" />
+            <configuration_option name="opcache.lockfile_path" value="/tmp" />
+            <configuration_option name="opcache.log_verbosity_level" value="1" />
+            <configuration_option name="opcache.max_accelerated_files" value="2000" />
+            <configuration_option name="opcache.max_file_size" value="0" />
+            <configuration_option name="opcache.max_wasted_percentage" value="5" />
+            <configuration_option name="opcache.memory_consumption" value="64" />
+            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
+            <configuration_option name="opcache.preferred_memory_model" value="" />
+            <configuration_option name="opcache.protect_memory" value="0" />
+            <configuration_option name="opcache.restrict_api" value="" />
+            <configuration_option name="opcache.revalidate_freq" value="2" />
+            <configuration_option name="opcache.revalidate_path" value="0" />
+            <configuration_option name="opcache.save_comments" value="1" />
+            <configuration_option name="opcache.use_cwd" value="1" />
+            <configuration_option name="opcache.validate_permission" value="0" />
+            <configuration_option name="opcache.validate_root" value="0" />
+            <configuration_option name="opcache.validate_timestamps" value="1" />
+            <configuration_option name="open_basedir" value="" />
+            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.capath" value="" />
+            <configuration_option name="output_buffering" value="0" />
+            <configuration_option name="output_encoding" value="" />
+            <configuration_option name="output_handler" value="" />
+            <configuration_option name="pcre.backtrack_limit" value="1000000" />
+            <configuration_option name="pcre.jit" value="1" />
+            <configuration_option name="pcre.recursion_limit" value="100000" />
+            <configuration_option name="pdo_mysql.default_socket" value="/var/run/mysqld/mysqld.sock" />
+            <configuration_option name="phar.cache_list" value="" />
+            <configuration_option name="phar.readonly" value="1" />
+            <configuration_option name="phar.require_hash" value="1" />
+            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="precision" value="14" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
+            <configuration_option name="realpath_cache_ttl" value="120" />
+            <configuration_option name="register_argc_argv" value="1" />
+            <configuration_option name="report_memleaks" value="1" />
+            <configuration_option name="report_zend_debug" value="0" />
+            <configuration_option name="request_order" value="GP" />
+            <configuration_option name="sendmail_from" value="" />
+            <configuration_option name="sendmail_path" value="/usr/sbin/sendmail -t -i " />
+            <configuration_option name="serialize_precision" value="17" />
+            <configuration_option name="session.auto_start" value="0" />
+            <configuration_option name="session.cache_expire" value="180" />
+            <configuration_option name="session.cache_limiter" value="nocache" />
+            <configuration_option name="session.cookie_domain" value="" />
+            <configuration_option name="session.cookie_httponly" value="" />
+            <configuration_option name="session.cookie_lifetime" value="0" />
+            <configuration_option name="session.cookie_path" value="/" />
+            <configuration_option name="session.cookie_secure" value="" />
+            <configuration_option name="session.entropy_file" value="/dev/urandom" />
+            <configuration_option name="session.entropy_length" value="32" />
+            <configuration_option name="session.gc_divisor" value="1000" />
+            <configuration_option name="session.gc_maxlifetime" value="1440" />
+            <configuration_option name="session.gc_probability" value="0" />
+            <configuration_option name="session.hash_bits_per_character" value="5" />
+            <configuration_option name="session.hash_function" value="0" />
+            <configuration_option name="session.lazy_write" value="1" />
+            <configuration_option name="session.name" value="PHPSESSID" />
+            <configuration_option name="session.referer_check" value="" />
+            <configuration_option name="session.save_handler" value="files" />
+            <configuration_option name="session.save_path" value="/var/lib/php/sessions" />
+            <configuration_option name="session.serialize_handler" value="php" />
+            <configuration_option name="session.upload_progress.cleanup" value="1" />
+            <configuration_option name="session.upload_progress.enabled" value="1" />
+            <configuration_option name="session.upload_progress.freq" value="1%" />
+            <configuration_option name="session.upload_progress.min_freq" value="1" />
+            <configuration_option name="session.upload_progress.name" value="PHP_SESSION_UPLOAD_PROGRESS" />
+            <configuration_option name="session.upload_progress.prefix" value="upload_progress_" />
+            <configuration_option name="session.use_cookies" value="1" />
+            <configuration_option name="session.use_only_cookies" value="1" />
+            <configuration_option name="session.use_strict_mode" value="0" />
+            <configuration_option name="session.use_trans_sid" value="0" />
+            <configuration_option name="short_open_tag" value="" />
+            <configuration_option name="smtp_port" value="25" />
+            <configuration_option name="soap.wsdl_cache" value="1" />
+            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
+            <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sys_temp_dir" value="" />
+            <configuration_option name="track_errors" value="" />
+            <configuration_option name="unserialize_callback_func" value="" />
+            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_tmp_dir" value="" />
+            <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
+            <configuration_option name="user_agent" value="" />
+            <configuration_option name="user_dir" value="" />
+            <configuration_option name="user_ini.cache_ttl" value="300" />
+            <configuration_option name="user_ini.filename" value=".user.ini" />
+            <configuration_option name="variables_order" value="GPCS" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="/tmp" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
+            <configuration_option name="xmlrpc_error_number" value="0" />
+            <configuration_option name="xmlrpc_errors" value="0" />
+            <configuration_option name="zend.assertions" value="-1" />
+            <configuration_option name="zend.detect_unicode" value="1" />
+            <configuration_option name="zend.enable_gc" value="1" />
+            <configuration_option name="zend.multibyte" value="0" />
+            <configuration_option name="zend.script_encoding" value="" />
+            <configuration_option name="zlib.output_compression" value="" />
+            <configuration_option name="zlib.output_compression_level" value="-1" />
+            <configuration_option name="zlib.output_handler" value="" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.4.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="snmp" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+</project>
