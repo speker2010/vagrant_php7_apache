@@ -1,1 +1,1 @@
-# vagrant_php7 nginx php-fpm mysql
+# vagrant_php7 nginx apache mysql
