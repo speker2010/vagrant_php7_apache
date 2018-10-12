@@ -4,6 +4,7 @@
 
 sudo apt update
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -y nginx mysql-server mysql-client php php-cli php-xdebug php-mysql libapache2-mod-php apache2 php-pdo php-pear php-xml php-xmlrpc php-mbstring php-snmp php-soap freetype* php-gd libapache2-mod-rpaf && a2enmod rpaf
+sudo a2enmod rewrite
 ln -s /vagrant/config/nginx.conf /etc/nginx/conf.d/test.loc.conf
 ln -s /vagrant/config/php.ini /etc/php/7.0/apache2/conf.d/xdebug-custom.ini
 sudo ln -s /vagrant/config/apache.conf /etc/apache2/sites-enabled/site.conf
