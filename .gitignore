@@ -2,3 +2,4 @@
 *.log
 .idea
 *.sql
+config/vagrant-local.yml
