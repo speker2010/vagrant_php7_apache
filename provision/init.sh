@@ -9,7 +9,7 @@ sudo a2enmod rpaf
 ln -s /vagrant/config/nginx.conf /etc/nginx/conf.d/test.loc.conf
 ln -s /vagrant/config/php.ini /etc/php/7.0/apache2/conf.d/xdebug-custom.ini
 sudo ln -s /vagrant/config/apache.conf /etc/apache2/sites-enabled/site.conf
-sudo mysql -e "UPDATE mysql.user SET authentication_string=PASSWORD(''), plugin='mysql_native_password' WHERE User='root';CREATE DATABASE test;"
+sudo mysql -e "UPDATE mysql.user SET authentication_string=PASSWORD(''), plugin='mysql_native_password' WHERE User='root';CREATE DATABASE test CHARACTER SET utf8 COLLATE utf8_general_ci;"
 if ! [ -L /var/www ]; then
   rm -rf /var/www
   ln -fs /vagrant/code /var/www
