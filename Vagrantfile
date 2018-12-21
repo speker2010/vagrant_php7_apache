@@ -2,7 +2,7 @@ require 'yaml'
 require 'fileutils'
 
 domains = {
-    test_loc: 'cvclinic.ru'
+    test_loc: 'test.loc'
 }
 
 # -*- mode: ruby -*-
