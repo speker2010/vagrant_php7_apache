@@ -18,7 +18,7 @@ OU=dev
 # Название отделения
 CN=site.com
 # Имя для сертификата (персоны, получающей сертификат)
-emailAddress=dev@dev.ru
+emailAddress=dev@site.com
 # Мыло организации
 
 [ v3_req ]
